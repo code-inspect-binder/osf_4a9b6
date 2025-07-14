@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/4a9b6_src/Supplementary Material/Analyses Exploratory Gaze Following Task")' >> /home/jovyan/.Rprofile
